@@ -1,0 +1,2 @@
+include ':app', ':myspinner'
+rootProject.name='SpinnerRetrofit'
